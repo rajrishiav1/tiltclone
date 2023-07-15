@@ -1,0 +1,55 @@
+
+section{
+    margin: 10px 50px;
+}
+.navbar{   
+    color: darkorange;
+}
+.container-fluid .navbar-toggler-icon {
+   
+    width: 2.5em;
+    height: 4.5em
+}
+.drop{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.main-section{
+    margin: 5px 100px;
+}
+img{
+    border-radius: 20px;
+}
+.col img{
+width: 380px;
+height: 460px;
+border-radius: 5%;
+}
+.card h-100{
+
+}
+.footer {
+    background-color:darkorange;
+    justify-content: space-around;
+color: white;
+}
+.footer h1{margin-top: 25px;
+    margin-bottom: 5px;
+
+}
+#searchbox{
+    width: 400px;
+    height: 60px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.drop a{
+    padding: 10px;
+}
+.togglebar hr{
+    width: 20px;
+    height: 10px;
+    color: darkorange;
+}
+
+
